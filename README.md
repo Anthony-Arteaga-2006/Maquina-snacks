@@ -1,6 +1,6 @@
 # Maquina-snacks
 
-Descripción
+# Descripción
 
 Este proyecto simula una máquina de snacks utilizando Python.
 
@@ -12,21 +12,21 @@ El usuario comienza con un saldo inicial de Bs. 5.00 y puede comprar los siguien
 
 El sistema verifica si existe saldo suficiente para realizar la compra. Al finalizar, muestra la cantidad total de productos comprados, el pago realizado y el saldo restante.
 
-Diagrama de Flujo
+# Diagrama de Flujo
 
+![image alt](https://github.com/Anthony-Arteaga-2006/Maquina-snacks/blob/33dfd3fff9a1f462a8efb5de3528d7eba6dc051c/Diagrama_de_Flujo.jpeg)
 
-
-Requisitos
+# Requisitos
 
 - Python 3.14.5
 
-Ejecución
+# Ejecución
 
 Abrir una terminal en la carpeta del proyecto y ejecutar:
 
 Python:
 
-Autor
+# Autor
 
 Anthony Guillermo Arteaga paredes
 Paralelo: 4
