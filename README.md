@@ -24,7 +24,7 @@ El sistema verifica si existe saldo suficiente para realizar la compra. Al final
 
 Abrir una terminal en la carpeta del proyecto y ejecutar:
 
-Python:
+Python: Maquina_de_Snacks_de_Anthony_Arteaga.py
 
 # Autor
 
