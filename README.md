@@ -28,7 +28,7 @@ Python:
 
 # Autor
 
-Anthony Guillermo Arteaga paredes
-Paralelo: 4
-Carrera: Ing. Sistemas
-Asignaturta: Programación
+- Anthony Guillermo Arteaga paredes
+- Paralelo: 4
+- Carrera: Ing. Sistemas
+- Asignaturta: Programación
